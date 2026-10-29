@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+node_modules/
+dist/
+
+# Desktop build artifacts
+desktop/ui/
+desktop/build/
+desktop/dist/
+
+.DS_Store
